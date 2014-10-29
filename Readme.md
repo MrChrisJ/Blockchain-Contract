@@ -28,5 +28,5 @@ To follow see [Method_Draft.md](https://github.com/MrChrisJ/Blockchain-Contract/
 See a quick prototype of an [Unsigned Sales Order](https://github.com/MrChrisJ/Blockchain-Contract/blob/master/Prototype_01/Sales_Order_UNSIGNED.xml) in XML.
 
 ## Licence
-![Creative Commons BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![Creative Commons BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
