@@ -1,0 +1,76 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+- -----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Purchase_Order>
+	<PurchaseOrder PurchaseOrderNumber="20141028-JL" OrderDate="2014-10-20">
+  		<Address Type="Shipping">
+  			<Name>Chris Ellis</Name>
+    		<Street>123 Shoreditch High Street</Street>
+    		<City>London</City>
+    		<State>Greater London</State>
+    		<Zip>EC1R 4DZ</Zip>
+    		<Country>United Kingdom</Country>
+  		</Address>
+  		<Address Type="Refund">
+    		<XBT>13U4gmroMmFwHAwd2Sukn4fE2WvHG6hP8e</XBT>
+  		</Address>
+  		<DeliveryNotes>Please leave packages with my neighbour if I am
+out.</DeliveryNotes>
+  		<Items>
+	    	<Item PartNumber="0.1AgBTC">
+	      		<ProductName>0.1 Bitcoin on 0.25 Troy Ounce of .999 Fine
+Silver</ProductName>
+	      		<Quantity>1</Quantity>
+	      		<XBTPrice>1.5</XBTPrice>
+	      		<Comment>Complete first run of these collectable coins obtained
+and now on sale.</Comment>
+	    	</Item>
+	    		<Item PartNumber="KCoin">
+	      		<ProductName>Keiser Ethical Silver rounds</ProductName>
+	      		<Quantity>2</Quantity>
+	      		<XBTPrice>0.2</XBTPrice>
+    		</Item>
+  		</Items>
+</PurchaseOrder>
+
+- -----BEGIN PGP SIGNATURE-----
+Version: 10.3.2.15413
+
+wsBVAwUBVFFMYew2pfEsR+bQAQrRYggAhkG8C+djpO/wC1IcYsIA2iuFIbt/FGbB
+P9BgxcepGLcHwSEFee2xt2nfxFbi2Id032ORvKY6AHTWoh4ByPIlcIPps3gX2XE/
+n7Yz9vThKpp3n/LfhhjzLA3JCsbzWtzxznbL16RVVA4n44LL63Ec4WxkJfK4+6Bp
+U1vWhT1fvJsQ93RXiiQct9bnWiCUj+5L4950MzGqpegzAqo5WHVmIqhhaspwe6LF
+kmgdrP2xiwObgFH6BsZ2TPas2RBKJHctvx/r0zjKoR1DFqmb2BFX4RP/i7SpaLOl
+//oP7oQB+l5LgmOIcVUre2nEWqQSe+jc++egqkaUTpS5HaZOAebreQ==
+=fhvP
+- -----END PGP SIGNATURE-----
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Sales_Order>
+                <Address Type="Payment">
+                       
+<URL>https://gist.github.com/hardbtc-org/56352c034c6011d7fc7b</URL>
+                        <XBT>1QDUuLTDrTe46cCHkPZv14dZVC4byJwXJg</XBT>
+                        <MSG>Mike_Caldwell</MSG>
+                       
+<MSG_SGN>HMNFvyF9Xa8c/0vy3w1/ulorkCbC6OrDuAw8/g+NoGyD513SaOCLw6q+rG7MgOYXO9
+A4jlTV4MdK0X5ebDvJGaU=</MSG_SGN>
+                </Address>
+                <Performance_Date>20141030-2200UTC</Performance_Date>
+</SalesOrder>
+
+-----BEGIN PGP SIGNATURE-----
+Version: 10.3.2.15413
+
+wsBVAwUBVFFNLPU65hKQQp0WAQpK+wgAigdJyXeTbK0wPLgfUL4HWyPIOBJFj+3a
++2otUuBW+ATgHDhcypkJEDJoAFLedeebu4ixzqG5gb+COioMY4f2D5oKirtrB9Fd
+7B/ThXnvdfzG3azFhx6H7SatK6L/JpLm/x/Ug9jD2qzzb6AXguMqi8IqrBxEvMmR
+3XNyNnV8mkQ0xfOW9PiZnnjogiL0u1m8IzQ6PKVlxuv9XxqlCGB5izVxyAClmvn8
+s/B0RNUDC8JwFZYsNylxN1v4MtUCy9iHasEFgBhv3ruTCdPSwcUgEu1tWOtHzrcw
+xi4XJ/3mO3DdU/mgOyRiQE0XttH6rKbbl1AS63vDAik05tGKOnz5wQ==
+=fZ8p
+-----END PGP SIGNATURE-----

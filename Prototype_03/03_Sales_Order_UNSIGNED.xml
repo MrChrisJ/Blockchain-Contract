@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Purchase_Order>
+  <PurchaseOrder PurchaseOrderNumber="20141028-JL" OrderDate="2014-10-20">
+      <Address Type="Shipping">
+        <Name>Chris Ellis</Name>
+        <Street>123 Shoreditch High Street</Street>
+        <City>London</City>
+        <State>Greater London</State>
+        <Zip>EC1R 4DZ</Zip>
+        <Country>United Kingdom</Country>
+      </Address>
+      <Address Type="Refund">
+        <XBT>13U4gmroMmFwHAwd2Sukn4fE2WvHG6hP8e</XBT>
+      </Address>
+      <DeliveryNotes>Please leave packages with my neighbour if I am
+out.</DeliveryNotes>
+      <Items>
+        <Item PartNumber="0.1AgBTC">
+            <ProductName>0.1 Bitcoin on 0.25 Troy Ounce of .999 Fine
+Silver</ProductName>
+            <Quantity>1</Quantity>
+            <XBTPrice>1.5</XBTPrice>
+            <Comment>Complete first run of these collectable coins obtained
+and now on sale.</Comment>
+        </Item>
+          <Item PartNumber="KCoin">
+            <ProductName>Keiser Ethical Silver rounds</ProductName>
+            <Quantity>2</Quantity>
+            <XBTPrice>0.2</XBTPrice>
+        </Item>
+      </Items>
+</PurchaseOrder>
+
+-----BEGIN PGP SIGNATURE-----
+Version: 10.3.2.15413
+
+wsBVAwUBVFFJ4uw2pfEsR+bQAQpomwf/ZMcdoKFhGM4q/2eyyXDwpn6vmrMAIhTu
+H8PJR8AWhpwrUBRs8B9UAPBeQ9ybxcU0Vc/hp76aqjIKewlsct781scwWhmhh+uv
+RGAwkvAyM1Bujijlr5eFC9p9gyD/HMfpWtDZp0PASdBZ23wBh6FeLQmjM/nIlnx4
+DNLhJdkR85JVRPqbjtA1XC+5EP7YAeB4jqlrd8DqXlmI8FAmN5Ekskldo+43C7Gm
+KNhxk6NWMlbBd627376anQjz0Vj+KX2SucXbUrTFyA8/j2M6YeN7bgWWiLCsXQJn
+NwxhV3XXA9Wixhn+jU1C8ksAhD/HRMx+EFuCt//JMsSFSn1nX/skdA==
+=9Iyf
+-----END PGP SIGNATURE-----
+
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Sales_Order>
+                <Address Type="Payment">
+                        <URL>https://gist.github.com/hardbtc-org/56352c034c6011d7fc7b</URL>
+                        <XBT>1QDUuLTDrTe46cCHkPZv14dZVC4byJwXJg</XBT>
+                        <MSG>Mike_Caldwell</MSG>
+                        <MSG_SGN>HMNFvyF9Xa8c/0vy3w1/ulorkCbC6OrDuAw8/g+NoGyD513SaOCLw6q+rG7MgOYXO9A4jlTV4MdK0X5ebDvJGaU=</MSG_SGN>
+                </Address>
+                <Performance_Date>20141030-2200UTC</Performance_Date>
+</SalesOrder>
