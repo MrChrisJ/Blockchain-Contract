@@ -1,5 +1,7 @@
 # Blockchain Contract
 
+**Proof of Publication:** [http://www.cryptograffiti.info/?txnr=1312](http://www.cryptograffiti.info/?txnr=1312)
+
 ## Goal
 The goal of this project is to produce a legal contract that is both consistent with the Western Legal tradition and that can also be notarised in the Bitcoin blockchain using nothing but available open source tools.  
 
