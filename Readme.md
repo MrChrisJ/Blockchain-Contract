@@ -9,16 +9,24 @@ We will be using [Extensible Markup Language (XML)](http://www.w3schools.com/xml
 
 As with other projects on this Github my hope is to increase people’s  understanding of the underlying technology and transfer power from the experts to the people. I want to enable everyone to use these tools with confidence so that they may manage their agreements between one another peacefully and achieve their life’s goals.  
 
-The licence for this project is **Creative Commons 4.0 CC-BY-SA**
+## Donations
 If you would like to help me pay for notorisation I have a special bitcoin address:
-[1B9c5V8Fc89qCKKznWUGh1vAxDh3RstqgC](https://blockchain.info/address/1B9c5V8Fc89qCKKznWUGh1vAxDh3RstqgC). 
+[1B9c5V8Fc89qCKKznWUGh1vAxDh3RstqgC](https://blockchain.info/address/1B9c5V8Fc89qCKKznWUGh1vAxDh3RstqgC)  
+Any coins that go to the address above will forever be ‘tainted’ with the contracts, if the project is a success you will be part of history :)
+Thank-you for your generosity.  
 
 ## Apparatus
-Bitcoin Wallet with about 15 mBTC
-Text Editor
-[PGP Software](https://gpgtools.org/)
-[Blockchain ID](https://github.com/MrChrisJ/World-Citizenship) (optional if experimental)  
-[Proof of Existence Website](http://proofofexistence.com/)  
+- Bitcoin Wallet with about 15 mBTC
+- Text Editor
+- [PGP Software](https://gpgtools.org/)
+- [Blockchain ID](https://github.com/MrChrisJ/World-Citizenship) (optional if you are just experimenting)  
+- [Proof of Existence Website](http://proofofexistence.com/)  
 
 ## Method
-To follow see Method_Draft.md in root folder.
+To follow see [Method_Draft.md](https://github.com/MrChrisJ/Blockchain-Contract/blob/master/Method_Draft.md) in root folder.  
+
+See a quick prototype of an [Unsigned Sales Order](https://github.com/MrChrisJ/Blockchain-Contract/blob/master/Prototype_01/Sales_Order_UNSIGNED.xml) in XML.
+
+## Licence
+![Creative Commons BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
