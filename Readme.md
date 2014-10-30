@@ -17,7 +17,7 @@ Thank-you for your generosity.
 
 ## Apparatus
 - Bitcoin Wallet with about 15 mBTC
-- Text Editor
+- Text Editor like [Sublime Text](http://www.sublimetext.com/)
 - [PGP Software](https://gpgtools.org/)
 - [Blockchain ID](https://github.com/MrChrisJ/World-Citizenship) (optional if you are just experimenting)  
 - [Proof of Existence Website](http://proofofexistence.com/)  
@@ -25,7 +25,9 @@ Thank-you for your generosity.
 ## Method
 To follow see [Method_Draft.md](https://github.com/MrChrisJ/Blockchain-Contract/blob/master/Method_Draft.md) in root folder.  
 
-See a quick prototype of an [Unsigned Sales Order](https://github.com/MrChrisJ/Blockchain-Contract/blob/master/Prototype_01/Sales_Order_UNSIGNED.xml) in XML.
+See the latest  [Prototype 04](https://github.com/MrChrisJ/Blockchain-Contract/tree/master/Prototype_04) for a working model.  
+
+We use an example [XML scheme from Microsoft](http://msdn.microsoft.com/en-us/library/bb387012.aspx) for the layout of the Purchase Order.
 
 ## Licence
 ![Creative Commons BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
